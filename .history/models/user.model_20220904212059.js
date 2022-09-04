@@ -8,8 +8,7 @@ const userSchema = mongoose.Schema({
   name: {
     type: String,
     reuire: true,
-  },
-  // hi
+  },hi
   age: {
     type: Number,
     reuire: true,
